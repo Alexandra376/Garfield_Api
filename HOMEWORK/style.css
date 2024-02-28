@@ -1,3 +1,12 @@
+body {
+    background-color: #fd8211;
+}
+
 .title {
     text-decoration: underline;
+}
+
+.detail-information {
+    font-size: 20px;
+    font-weight: 600;
 }
